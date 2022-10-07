@@ -9,7 +9,7 @@ Description: >-
 # Required Section in template
 Resources:
   # Logical ID
-  HelloBucket1:
+  HelloBucket:
     Type: AWS::S3::Bucket
-  HelloBucket2:
+  HelloBucket:
     Type: AWS::S3::Bucket
